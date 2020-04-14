@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Docker cjs <0624008@nkust.edu.tw>
+MAINTAINER Docker cjs <jscheng@nkust.edu.tw>
 RUN apt-get update
 RUN apt-get install -y wget
 RUN cd /
